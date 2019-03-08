@@ -25,7 +25,7 @@ SECRET_KEY = 'y7d6*&nqgsy4@zgd0v%z_lt(&g^8s7_#q#-(uu$1hcoz+8y@z-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<hydrohinon>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'hydrohinon.pythonanywhere.com']
 
 
 # Application definition
